@@ -1,0 +1,61 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(2, 2, 37);
+    height: 100vh;
+}
+.logo_C_Header{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: rgb(1, 1, 49);
+}
+.logo_C_Header .row{
+    height: auto;
+}
+.logo_C_Header .row .col-1{
+    height: inherit;
+}
+.logo_C_Header .row .col-10{
+    height: inherit;
+    padding: 0;
+    margin: 0;
+}
+.contentRow{
+    height: inherit;
+}
+.col-4 .col-sm-4 .logo_c_C_Header{
+    height: inherit;
+    width: fit-content;
+}
+.logoHeader{
+    height: inherit;
+
+    width: 100%;
+}
+.title_Header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+}
+.title_Header h1{
+    padding-top: 10px;
+    font-size: 30px;
+    line-height: 15px;
+    font-weight: 700;
+    color: orange;
+}
+.title_Header h2{
+    font-size: 10px;
+    line-height: 10px;
+    font-weight: 700;
+    color: orange;
+}
+
+/* CIERRE DE TITULO Y LOGO */
+
+
+/* INICIO DE OLAS */
